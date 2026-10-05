@@ -1,0 +1,9 @@
+"app.name" = "DocFetcher";
+"search.placeholder" = "Search documents…";
+"sort.relevance" = "Relevance";
+"sort.filename" = "File Name";
+"sort.dateModified" = "Date Modified";
+"sort.fileSize" = "File Size";
+"folders.add" = "Add Folder…";
+"indexing.running" = "Indexing…";
+"results.none" = "No results";
